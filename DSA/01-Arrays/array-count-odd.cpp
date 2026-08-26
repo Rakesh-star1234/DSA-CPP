@@ -7,11 +7,11 @@ int main()
     for(int i=0; i<5; i++)
     {
         cin>>arr[i];
-        if(arr[i] % 2 == 0)
+        if(arr[i] %2==1)
         {
-            count++; 
+            count++;
         }
     }
-    cout<<"count="<<count<<endl; 
-    return 0;  
+    cout<<"count="<<count<<endl;
+    return 0; 
 }

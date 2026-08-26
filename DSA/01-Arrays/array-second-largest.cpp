@@ -19,9 +19,13 @@ int main()
             secondMax = max;
             max = arr[i];
         }
+        else if(arr[i] > secondMax)
+        {
+            secondMax = arr[i];
+        }
     }
 
     cout << "Second Largest = " << secondMax;
 
-    return 0;
+    return 0; 
 }

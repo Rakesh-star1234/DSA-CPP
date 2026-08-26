@@ -5,7 +5,7 @@ int main()
 {
     int arr[5];
 
-    for(int i = 0; i < 5; i++)
+    for(int i = 0; i < 5; i++) 
     {
         cin >> arr[i];
     }
@@ -15,5 +15,5 @@ int main()
         cout << arr[i] << "  ";
     }
 
-    return 0; 
+    return 0;  
 }

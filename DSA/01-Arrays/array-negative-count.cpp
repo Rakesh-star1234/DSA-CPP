@@ -3,13 +3,14 @@ using namespace std;
 int main()
 {
     int arr[5];
+    int Count=0;
     int negativeCount=0;
     for(int i=0; i<5; i++)
     {
         cin>>arr[i];
-        if(arr[i]<0)
+        if(arr[i]<0) 
         {
-            negativeCount++;
+            negativeCount++; 
             
         }
     }

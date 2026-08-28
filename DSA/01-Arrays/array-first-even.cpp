@@ -7,14 +7,14 @@ int main()
     int firstEven = 0;
     int found = 0;
 
-    for(int i = 0; i < 5; i++)
+    for(int i = 0; i < 5; i++) 
     {
         cin >> arr[i];
 
         if(arr[i] % 2 == 0)
         {
             firstEven = arr[i];
-            found = 1;
+            found = 1;  
             break;
         }
     }
@@ -28,5 +28,5 @@ int main()
         cout << "No even element found";
     }
 
-    return 0;
-}
+    return 0;  
+} 

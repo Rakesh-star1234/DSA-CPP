@@ -11,7 +11,7 @@ int main()
         {
             negativeEvenCount++;
 
-        }
+        } 
     }
     cout<<"Number of negative even elements:"<<negativeEvenCount<<endl;
     return 0;

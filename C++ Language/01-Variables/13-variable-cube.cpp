@@ -8,6 +8,6 @@ int main()
 
     cout << "Number: " << number << endl;
     cout << "Cube: " << cube << endl;
-
+ 
     return 0; 
 }

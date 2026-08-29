@@ -9,6 +9,6 @@ int main()
     age=25;
     marks=95;
     cout<<"age="<<age<<endl;
-    cout<<"marks="<<marks<<endl;
+    cout<<"marks="<<marks<<endl; 
     return 0;
 }

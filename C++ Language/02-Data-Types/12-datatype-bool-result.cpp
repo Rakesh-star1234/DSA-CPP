@@ -4,5 +4,5 @@ int main()
 {
     bool passed = false;
     cout<<"passed:"<<passed<<endl;
-    return 0; 
+    return 0;    
 }

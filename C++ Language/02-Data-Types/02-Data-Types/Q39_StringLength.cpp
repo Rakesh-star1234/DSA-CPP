@@ -7,4 +7,4 @@ int main()
     cout <<"Name:"<< name <<endl;
     cout << "Length of the string: " << length << endl;
     return 0; 
-}
+} 

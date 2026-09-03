@@ -13,4 +13,4 @@ int main()
     cout<<"A equal to B:"<<equal<<endl;
     cout<<"A not equal to B:"<<notEqual<<endl;
     return 0;
-}
+} 

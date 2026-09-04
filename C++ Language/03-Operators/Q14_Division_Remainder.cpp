@@ -10,4 +10,4 @@ int main()
     cout << "Quotient: " << quotient << endl;
     cout << "Remainder: " << remainder << endl;
     return 0;
-}
+} 

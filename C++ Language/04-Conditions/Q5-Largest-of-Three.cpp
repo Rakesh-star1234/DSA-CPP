@@ -17,7 +17,7 @@ int main()
     }
     else
     {
-        cout << "Largest = " << C << endl;
+        cout << "Largest = " << C << endl; 
     }
 
     return 0;

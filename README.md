@@ -1,5 +1,5 @@
 
-# C++ Programming & Data Structures and Algorithms (DSA)
+# C++ Programming & Data Structures and Algorithms (DSA) Question practice
 Welcome to my C++ Programming and Data Structures & Algorithms (DSA) practice repository.
 
 This repository documents my learning journey, coding practice, and preparation for software developer interviews.
@@ -68,4 +68,4 @@ GitHub: https://github.com/Rakesh-star1234
 
 Portfolio: https://rakesh-star1234.github.io/portfolio/
 
-⭐ Thank you for visiting my repository!
+⭐ Thank you for visiting my repository!       

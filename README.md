@@ -91,6 +91,22 @@ Each practice program focuses on improving coding fundamentals, logical thinking
 - Expand array and searching problems.
 - Practice additional data structures and algorithms.
 - Improve solutions and documentation as I learn.
+---
+
+## 🧠 Problem-Solving Categories
+
+My coding practice is focused on building strong programming fundamentals and gradually developing problem-solving skills.
+
+| Level | Focus Areas |
+|---|---|
+| 🟢 Basic | Variables, input/output, operators, conditions, loops |
+| 🟡 Intermediate | Arrays, searching, logical problem-solving |
+| 🔴 Advanced | Data structures, algorithms, and interview-style problems |
+
+## 🎯 My Commitment
+
+I aim to practice consistently, understand the logic behind every solution, and improve my coding skills step by step.
+
 
 
 ⭐ Thank you for visiting my repository!       

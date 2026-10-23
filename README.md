@@ -67,5 +67,30 @@ I'm Rakesh Kumar, an aspiring software developer interested in C++, DSA, Web Dev
 GitHub: https://github.com/Rakesh-star1234
 
 Portfolio: https://rakesh-star1234.github.io/portfolio/
+---
+
+## 📂 Repository Structure
+
+This repository is organized into folders to make C++ practice questions easy to find and review.
+
+- `C++ Language/` — C++ fundamentals and programming practice.
+- `DSA/` — Data Structures and Algorithms practice questions.
+
+Each practice program focuses on improving coding fundamentals, logical thinking, and problem-solving skills.
+
+## 💡 Practice Approach
+
+- Start with basic programming questions and gradually move to intermediate and advanced problems.
+- Write simple, readable, and well-structured C++ code.
+- Understand the logic behind each solution.
+- Practice questions relevant to technical interviews and software development placements.
+
+## 🚀 Future Improvements
+
+- Add more C++ programming exercises.
+- Expand array and searching problems.
+- Practice additional data structures and algorithms.
+- Improve solutions and documentation as I learn.
+
 
 ⭐ Thank you for visiting my repository!       
